@@ -35,11 +35,11 @@ const CONFIG = {
   messageCooldownSeconds: 900,
 
   messages: [
-    { text: 'Join the Akira discord at https://discord.gg/zrxCJpKaay ', enabled: true },
-    { text: 'New to the server? join Akira at https://discord.gg/zrxCJpKaay', enabled: true },
-    { text: 'For the best team, join the Akira Clan https://discord.gg/zrxCJpKaay', enabled: true },
-    { text: 'Need a clan base? join the Akira Clan https://discord.gg/zrxCJpKaay', enabled: true },
-    { text: 'Wanna basehunt correctly? Join the Akira Clan https://discord.gg/zrxCJpKaay', enabled: true }
+    { text: 'Fuck Saturn Clan', enabled: true },
+    { text: 'Fuck Saturn Clan', enabled: true },
+    { text: 'Fuck Saturn Clan', enabled: true },
+    { text: 'saturn.lat is next to go down', enabled: true },
+    { text: 'saturn.lat is next to go down', enabled: true }
   ]
 }
 
